@@ -10,7 +10,6 @@ bool comparePlayers(const BaseballPlayer& player1, const BaseballPlayer& player2
         return player1.homeRuns > player2.homeRuns;
     else if (stat == "RBIs")
         return player1.RBIs > player2.RBIs;
-    // Add more stats as needed
     else
         return false; // Handle invalid stat
 }
