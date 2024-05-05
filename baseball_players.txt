@@ -1,0 +1,12 @@
+Johnny First_Baseman 0.320 45 112
+Samantha Shortstop 0.270 10 18
+Bobby Outfielder 0.310 10 110
+Tony Catcher 0.290 30 100
+Maria Outfielder 0.200 41 20
+Jimmy Shortstop 0.300 90 10
+Emily Third_Baseman 0.305 40 110
+Alex Center_Fielder 0.315 50 100
+Danny Third_Baseman 0.250 30 16
+Lisa Designated_Hitter 0.325 35 120
+Tommy Designated_Hitter 0.326 37 125
+Lisa Shortstop 0.256 25 127
